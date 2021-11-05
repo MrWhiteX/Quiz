@@ -2,7 +2,7 @@
 
 ## Installation
 
-Use the package manager [npm](https://nodejs.org/en/) to install CoinPrice.
+Use the package manager [npm](https://nodejs.org/en/) to install Quiz App.
 
 ```bash
 npm install
